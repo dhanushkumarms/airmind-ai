@@ -4,7 +4,7 @@
 ---
 
 <p align="center">
-  <img src="assests\airmind_logo.png" alt="Airmind Logo" width="800"/>
+  <img src="assets/airmind_logo.png" alt="Airmind Logo" width="800"/>
 </p>
 
 ---
@@ -114,7 +114,46 @@ Fine-tune RoBERTa model
 Export trained model into `backend/airline_intent_classifier/`  
 
 ### 📸 Screenshots  
-UI Preview | Insights Dashboard  
+### How to Make This Project a GitHub Repository  
+
+1. **Initialize Git in the Project Directory**  
+    Open a terminal in the project root and run:  
+    ```bash
+    git init
+    ```
+
+2. **Add All Files to Git**  
+    Stage all files for the initial commit:  
+    ```bash
+    git add .
+    ```
+
+3. **Commit the Changes**  
+    Create the first commit:  
+    ```bash
+    git commit -m "Initial commit"
+    ```
+
+4. **Create a New Repository on GitHub**  
+    - Go to [GitHub](https://github.com) and log in.  
+    - Click the "+" icon in the top-right corner and select "New repository".  
+    - Fill in the repository name (e.g., `airmind`) and other details.  
+    - Click "Create repository".  
+
+5. **Link the Local Repository to GitHub**  
+    Copy the repository URL from GitHub and run:  
+    ```bash
+    git remote add origin <repository-url>
+    ```
+
+6. **Push the Code to GitHub**  
+    Push the local repository to GitHub:  
+    ```bash
+    git branch -M main
+    git push -u origin main
+    ```
+
+Your project is now live on GitHub!
 
 ### 🚀 Future Enhancements  
 🌍 Multilingual Query Support  
