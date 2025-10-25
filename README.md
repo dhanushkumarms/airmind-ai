@@ -9,7 +9,7 @@
 
 ---
 
-![Airmind](https://img.shields.io/badge/Airmind-Live-blue?style=for-the-badge&logo=vercel&logoColor=white)  
+![Airmind](https://img.shields.io/badge/Airmind-Active-harlequin?style=for-the-badge&logo=vercel&logoColor=white)  
 ---
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-Backend-009688?style=for-the-badge&logo=fastapi&logoColor=white)  
@@ -73,10 +73,6 @@ Traditional customer service in airlines faces:
 
 ---
 
-## 📂 Project Structure  
-
---
-
 ## ⚙️ Installation & Setup  
 
 ### ✅ 1. Clone the Repository  
@@ -107,11 +103,15 @@ Frontend runs at:
 http://localhost:3000
 ```
 
+---
+
 ### 🧠 Model Training (Google Colab)  
 Open `notebooks/Airmind_Training.ipynb` in Google Colab  
 Upload dataset (`airline_intents_data.csv`)  
 Fine-tune RoBERTa model  
 Export trained model into `backend/airline_intent_classifier/`  
+
+---
 
 ### 📸 Screenshots  
 ### How to Make This Project a GitHub Repository  
@@ -155,6 +155,8 @@ Export trained model into `backend/airline_intent_classifier/`
 
 Your project is now live on GitHub!
 
+---
+
 ### 🚀 Future Enhancements  
 🌍 Multilingual Query Support  
 🔐 Admin Authentication & Role-Based Access  
@@ -162,8 +164,12 @@ Your project is now live on GitHub!
 ☁ Cloud Deployment (AWS / Azure / Render)  
 🤝 Live Chat Integration with Human Agent  
 
+---
+
 ### 👨‍💻 Contributors  
 Dhanushkumar M
+
+---
 
 ### 📜 License  
 This project is licensed under the MIT License.
