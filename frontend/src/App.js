@@ -115,7 +115,7 @@ function App() {
       {/* Header */}
       <header className="App-header">
         <div className="header-content">
-          <h1>✈️ Airline Customer Bot</h1>
+          <h1>✈️ AirMinds Ai</h1>
           <div className="header-actions">
             <button className="theme-toggle" onClick={() => setDarkMode(!darkMode)}>
               {darkMode ? '☀️' : '🌙'}
