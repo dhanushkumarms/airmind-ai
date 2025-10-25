@@ -9,7 +9,7 @@
 
 ---
 
-![Airmind](https://img.shields.io/badge/Airmind-Live-blue?style=for-the-badge&logo=vercel&logoColor=white)  
+![Airmind](https://img.shields.io/badge/Airmind-Active-harlequin?style=for-the-badge&logo=vercel&logoColor=white)  
 ---
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-Backend-009688?style=for-the-badge&logo=fastapi&logoColor=white)  
