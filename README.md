@@ -4,7 +4,7 @@
 ---
 
 <p align="center">
-  <img src="assets/airmind_logo.png" alt="Airmind Logo" width="800"/>
+  <img src="assests\airmind_logo.png" alt="Airmind Logo" width="800"/>
 </p>
 
 ---
