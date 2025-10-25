@@ -73,10 +73,6 @@ Traditional customer service in airlines faces:
 
 ---
 
-## 📂 Project Structure  
-
---
-
 ## ⚙️ Installation & Setup  
 
 ### ✅ 1. Clone the Repository  
@@ -107,14 +103,20 @@ Frontend runs at:
 http://localhost:3000
 ```
 
+---
+
 ### 🧠 Model Training (Google Colab)  
 Open `notebooks/Airmind_Training.ipynb` in Google Colab  
 Upload dataset (`airline_intents_data.csv`)  
 Fine-tune RoBERTa model  
 Export trained model into `backend/airline_intent_classifier/`  
 
+---
+
 ### 📸 Screenshots  
 UI Preview | Insights Dashboard  
+
+---
 
 ### 🚀 Future Enhancements  
 🌍 Multilingual Query Support  
@@ -123,8 +125,12 @@ UI Preview | Insights Dashboard
 ☁ Cloud Deployment (AWS / Azure / Render)  
 🤝 Live Chat Integration with Human Agent  
 
+---
+
 ### 👨‍💻 Contributors  
 Dhanushkumar M
+
+---
 
 ### 📜 License  
 This project is licensed under the MIT License.
